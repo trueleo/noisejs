@@ -1,5 +1,7 @@
 # NOISE!
 
+Forked from https://github.com/josephg/noisejs 
+
 This is a simple library for 2d & 3d perlin noise and simplex noise in
 javascript. Noise is
 [pretty](https://josephg.com/perlin/3/).
